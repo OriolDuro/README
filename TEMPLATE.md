@@ -1,6 +1,6 @@
-# 📦 My Package
+# Blog
 
-(add your badges here)
+Benvinguts al nostre blog, nosaltres som l'Oriol i l'Alex, en aquesta pagina parlarem del nostre blog sobre el GYM, també os parlarem sobre els nostres interessos i el que fem en el nostre dia a dia
 
 > *Your documentation is a direct reflection of your software, so hold it to the same standards.*
 
@@ -14,12 +14,12 @@
 
 ## ℹ️ Overview
 
-A paragraph explaining your work, who you are, and why you made it.
+Benvinguts al nostre blog, nosaltres som l'Oriol i l'Alex, aquest blog està fet amb el proposit d'explicar i parlar sobre el GYM, també os parlarem sobre els nostres interessos i el que fem en el nostre dia a dia
 
 
 ### ✍️ Authors
 
-Mention who you are and link to your GitHub or organization's website.
+Aquest blog esta format per Alex Ion i Oriol Casoliva: http://127.0.0.1:5500/grid.html
 
 
 ## 🚀 Usage
